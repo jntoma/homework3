@@ -66,13 +66,11 @@ table{
 }
 
 .rowhead{
+  border-top: 2px solid black;
 }
 
 td{
   padding: 15px;
-}
-
-td, th{
   border-top: 2px solid black;
 }
 
